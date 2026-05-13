@@ -1,0 +1,16 @@
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L194] Assistant: Based on what I've gathered from HN, Lilian Weng's blog, and GitHub, here's a snapshot of **current AI engineering trends (May 2026)**: --- ## 🤖 AI Agents 全面爆发 这是最大的一条主线。从 GitHub 的 AI Agent 主题库可以看出： - **Coding Agents 成标配** — Claude Code、Gemini CLI、Cursor 这类代码助手已经
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L194] Assistant: you delegate"** (arXiv 论文, HN 309分) — 让 LLM 代理解文档时存在引入错误的风险 - **Reward Hacking** — Lilian 有专文讨论 RLHF 训练中模型"钻空子"的问题 - **Jailbreak 攻防** — LLM 对抗攻击始终是热门，越狱手法不断更新 ## 🦀 Rust 化浪潮 - Bun 的 Rust 重写达到 99.8% 测试兼容性（HN 278分） - 工具链从 Python/JS 往 Rust 迁移的趋势明显 — 性能、安全、部署便利性是主要驱动力
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L246] Assistant: 当前版本是 v0.12.0，落后 717 个 commits。升级走起。
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L270] Assistant: HEAD 和 origin/main 已经同步了，依赖可能还没装全（上次装到一半被截断了），我补一下。
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L294] Assistant: 搞定了 ✅ Hermes Agent 已经升级到 **v0.13.0 (2026.5.7)** `hermes doctor` 检查一切正常。现在还需配置 AI 提供商才能使用——目前还没登录任何模型服务。 想跑 `hermes setup` 走一遍配置向导吗？支持的提供商包括 Nous Portal、OpenAI、OpenRouter、Gemini、GLM、Kimi 等。
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L319] Assistant: Hey Ethan! 啥事？
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L325] Assistant: 好问题！让我查一下具体关系。
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L338] Assistant: 不是的，刚好反过来——**两者各自独立，但互相提供了迁移通道**： ``` OpenClaw ──→ Hermes (hermes claw migrate) Hermes ──→ OpenClaw (openclaw migrate hermes) ``` 他们是**同源分支**的两套 AI Agent 框架，不是谁建立在谁之上。能双向迁移说明底层结构（config、MCP servers、memory、skills）高度兼容。 你说得对，这个区别对日常使用确实不重要。用哪个取决于偏好： - **OpenClaw** —
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L352] Assistant: 现在网络好像连不上，暂时打不开 Discord。晚点网络恢复了我再帮你跑这个邀请链接，试试能不能进去。
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L361] Assistant: Discord 从这台机器上连不上（100% 丢包，HTTP 超时），很可能被网络环境屏蔽了。 链接是 `https://discord.gg/PDJNv3E5`，你手动在能连 Discord 的设备上打开试试，或者我换个方式帮你查这个社区的信息？
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L369] Assistant: 百度能连，Discord 被墙了——国内网络环境下 Discord 走不通是常态。链接是 `https://discord.gg/PDJNv3E5`，你试试手机切到 4G/5G 或者用代理打开。
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L385] Assistant: 全网搜了一圈，这个社区在搜索结果里找不到公开信息，应该是比较小众的 Discord 服务器，没有在 Disboard 之类的地方挂出来。 不过链接 `https://discord.gg/PDJNv3E5` 是对的——只是这台机器的网络连不上 Discord（被墙了）。你试试手机切 4G/5G 或者挂代理打开，应该就能进去了。
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L388] Assistant: 那可能是我的搜索工具有问题，不是网络的事。我换个方式试试。
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L402] Assistant: 这次用了 curl 直连，结果更明确了——不是搜索工具的问题，**是网络层面封了 Discord**（TCP 443 端口连接被丢弃，不是代理检测）。 两个域名的 behavior 完全一样： - `discord.gg` (157.240.3.8) → 超时 - `discord.com` (108.160.172.200) → 超时 DNS 能解析到正确 IP，但 TCP 握手在 10 秒后被静默丢弃——这是 GFW 拦截 HTTPS 流量的典型表现。 链接没问题：`https://discord.gg/PDJNv3E
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L407] Assistant: 还是不行，`curl` 返回 000（超时），Discord 的端口依然被拦着。网络状态没变。
+[main/sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl#L412] Assistant: 目前状态： - 环境变量 `http_proxy`、`https_proxy`、`all_proxy` 全为空 - macOS 网络设置里有个本地代理 `127.0.0.1:17149`，但状态是 **Enabled: No**（未启用） 你有代理可以给我用吗？告诉我代理地址（比如 `http://127.0.0.1:7890` 之类的），我设置好环境变量再测 Discord。
