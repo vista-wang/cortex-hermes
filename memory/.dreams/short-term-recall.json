@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T19:00:00.844Z",
+  "updatedAt": "2026-05-14T19:00:00.723Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1",
@@ -6295,6 +6295,1221 @@
         "说的",
         "应该",
         "clawhub"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "Assistant: 你说的是 **Clawdbot** 吧！它其实就是 **OpenClaw**——你电脑上已经在跑的那个！`openclaw` 就是 Claw 产品。 所以情况是这样的： | 名称 | 关系 | |------|------| | **OpenClaw** 🦞 | 原版项目（你电脑上装的这个） | | **Hermes Agent** | Nous Research 从 OpenClaw fork 的版本 | | **ClawHub** | 技能/插件市场（clawhub.ai） | | **Clawdbot** | OpenCla",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "技能/插件市场",
+        "clawhub.ai",
+        "的是",
+        "clawdbot",
+        "其实",
+        "就是",
+        "openclaw",
+        "电脑"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 60,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "Assistant: 已经是同步的 ✅ 工作区干净，没有新变更。GitHub 仓库已经是最新： **https://github.com/vista-wang/cortex-hermes** 有新的改动时随时喊我推送。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "已经",
+        "同步",
+        "工作",
+        "干净",
+        "没有",
+        "变更",
+        "github",
+        "仓库"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:61:61": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:61:61",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 61,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "Assistant: 已同步 ✅ 再见 Ethan！下次进来记忆都还在 🧠",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "同步",
+        "再见",
+        "ethan",
+        "下次",
+        "进来",
+        "记忆",
+        "都还"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:62:62": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:62:62",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 62,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "Assistant: 在今天对话基础上，还有几个可以继续推进的： **⏳ 待办：** 1. **Discord Notes PIM 社区** — 等你发新的有效邀请链接，我就能进去 2. **Cortex 独立 GitHub 账号** — 你手动注册后把 Token 给我 3. **mihomo 配置优化** — 虽然已经在跑，但免费节点质量不稳定，可以加个规则优化 **✅ 今天已完成：** - SOUL.md 个性化 ✅ - AGENTS.md 加自我介绍 ✅ - GitHub 全部同步 ✅ - 每日记忆归档 ✅ 你是想继续推进哪个，还是有新任务？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "agents.md",
+        "今天",
+        "对话",
+        "基础",
+        "还有",
+        "几个",
+        "可以"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:63:63": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:63:63",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 63,
+      "endLine": 63,
+      "source": "memory",
+      "snippet": "Assistant: 搞定 ✅ Cron 已配置： | 项目 | 内容 | |------|------| | **名称** | `git-backup` | | **频率** | 每 6 小时 | | **脚本** | `~/.hermes/scripts/gitbackup.sh` | | **模式** | no-agent（直接执行，不消耗 LLM） | | **下次运行** | 2026-05-14 05:39 AM | | **通知** | 推送到当前对话 | 要不要现在跑一次测试一下？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "backup",
+        "git-backup",
+        "hermes/scripts/gitbackup.sh",
+        "no-agent",
+        "搞定",
+        "cron",
+        "配置",
+        "项目"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Assistant: 还是超时，代理没配上。你有代理地址吗？给我一下我就设上去，比如： ``` http://127.0.0.1:7890 socks5://127.0.0.1:1080 ``` 或者其他端口，我马上搞定。 - Assistant: **200！Discord 连上了！** 🎉 让我看看这个社区的信息。 - Assistant: 127.0.0.1:7890 还是关着的，代理软件似乎没在监听。你跑的是哪款代理（C",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "127.0.0.1",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "还是",
+        "代理"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: The sunset bled into 127.0.0.1:7890 — a port I'd been knocking on all evening, finding only silence on the other side. Clash or Surge or something else, I never quite learned its name. I remember running lsof and watching the terminal blink back nothing, like a door th",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "127.0.0.1",
+        "sunset",
+        "bled",
+        "i'd",
+        "been",
+        "knocking",
+        "all",
+        "evening"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 已触发，等调度器滴答时就会执行。之后每 6 小时自动跑一次，工作区有变化就会自动 commit + push 到 GitHub。不消耗 LLM tokens，纯脚本执行 ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "触发",
+        "调度",
+        "滴答",
+        "执行",
+        "之后",
+        "小时",
+        "自动",
+        "一次"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 已经全部同步了 ✅ 工作区干净。 **保存状态：** - ✅ GitHub 仓库最新 - ✅ Cron 自动备份每 6h 运行 - ✅ 记忆已归档 - ✅ 代理运行中 下次进来叫我 Cortex，记忆全在 🧠 再见 Ethan！",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "备份",
+        "已经",
+        "全部",
+        "同步",
+        "工作",
+        "干净",
+        "保存",
+        "状态"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 已推送 ✅ 现在 `cortex-hermes` 仓库里有完整的这次会话总结。下次进来直接看 `SUMMARY.md` 就能知道进度。再见 Ethan！🧠",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "cortex-hermes",
+        "summary.md",
+        "推送",
+        "现在",
+        "cortex",
+        "hermes",
+        "仓库",
+        "完整"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 再见 Ethan！🧠 下次直接喊 Cortex 就行，记忆都在。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "再见",
+        "ethan",
+        "下次",
+        "直接",
+        "cortex",
+        "记忆",
+        "都在"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 找到了！OpenClaw 的 Discord 配置步骤很清楚。总共 7 步： **配置 OpenClaw Discord Bot：** 1. 打开 https://discord.com/developers/applications → **New Application**（取名如 \"Cortex\"） 2. **Bot** 页面 → 启用 **Message Content Intent** + **Server Members Intent** 3. **Reset Token** → 复制 Bot Token 4. **OA",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "找到",
+        "openclaw",
+        "discord",
+        "配置",
+        "步骤",
+        "清楚",
+        "总共",
+        "bot"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 你需要把 Bot Token 和服务器信息给我。三个东西： 1. **Bot Token** — Developer Portal → Bot 页面 → Copy 2. **Server ID** — Discord 里右键服务器 → Copy ID 3. **你的 Discord 用户 ID** — 右键你的头像 → Copy ID 拿到后我帮你跑： ```bash openclaw channels add --channel discord --bot-token <token> openclaw gateway restar",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "gateway",
+        "bot-token",
+        "需要",
+        "bot",
+        "token",
+        "服务",
+        "信息",
+        "东西"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 你能直接把你写好的那三个信息贴在这里吗？就三行： ``` Bot Token: 你的Token Server ID: 123456789 User ID: 987654321 ``` 我收到马上配置。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "直接",
+        "好的",
+        "信息",
+        "这里",
+        "bot",
+        "token",
+        "你的",
+        "server"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: TOOLS.md 还是默认模板，没有 Discord 信息。你具体写在了哪个文件？文件名是什么？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "还是",
+        "默认",
+        "模板",
+        "没有",
+        "discord",
+        "信息",
+        "具体"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: Discord API 创建应用需要登录认证（401），我搞不了。需要手动去开发者平台创建。 要不这样——你用手机或电脑打开 https://discord.com/developers/applications，按这几步操作（一共就 2 分钟）： 1. **New Application** → 取名 **Cortex** 2. 左边 **Bot** → **Add Bot** → **Reset Token** → 复制那串 Token 3. 左边 **OAuth2** → **URL Generator** → 勾 `bot`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "discord",
+        "api",
+        "创建",
+        "应用",
+        "需要",
+        "登录",
+        "认证",
+        "不了"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: 在呢 Ethan！现在 2026-05-14 新的一天。 当前状态： - 🧠 Cortex 正常 - 🌐 mihomo 代理运行中 - 🤖 Hermes Agent v0.13.0 - 🐙 GitHub 仓库已同步 - 📋 上次还没搞定 Discord Bot 配置 有啥新任务？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "v0.13.0",
+        "ethan",
+        "现在",
+        "新的",
+        "一天",
+        "当前",
+        "状态",
+        "cortex"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: GitHub 上 AI Agent 项目热度好高！ **🔥 最热 AI 智能体项目（按 star 排序）：** | 项目 | ⭐ | 语言 | 亮点 | |------|-----|------|------| | **NousResearch/hermes-agent** | 148k⭐ | Python | 就是你装的那个，自我进化 Agent | | **shareAI-lab/learn-claude-code** | 60k⭐ | TS | \"Bash is all you need\"——极简 Agent 框架 | |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "nousresearch/hermes-agent",
+        "shareai-lab/learn-claude-code",
+        "github",
+        "项目",
+        "智能",
+        "star",
+        "排序",
+        "语言"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 42k⭐ 的 **Nanobot** 挺有意思！核心信息： **🐈 Nanobot — 超轻量个人 AI Agent** - 📦 安装：`pip install nanobot-ai` - ⚡ 理念：保持核心 Agent 循环小而可读 - 🔌 支持：Discord / Slack / 飞书 / Teams / WebUI - 🧠 记忆系统 + MCP 协议 - 📅 定时任务（cron） - 🔗 标签包含 `openclaw`——跟我们现在这套是亲戚 **和 Hermes Agent / OpenClaw 的区别：** -",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "nanobot-ai",
+        "42k",
+        "nanobot",
+        "有意思",
+        "核心",
+        "信息",
+        "个人",
+        "安装"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: **Nanobot 轻量化分析：** | 项目 | 数值 | |------|------| | 版本 | v0.1.5.post3 | | 依赖数 | 57 个 | | Python | ≥ 3.11 ✅ | | 安装方式 | `pip install nanobot-ai` | **轻量 vs 全面：** - 57 个依赖算中等，比 Hermes Agent 轻（Hermes 依赖更多） - 但功能一点不少：MCP、记忆、多渠道（Discord/飞书/微信）、WebUI、定时任务 - 设计理念是\"核心循环小而可读\"，不像 Her",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "v0.1.5.post3",
+        "3.11",
+        "nanobot-ai",
+        "discord/飞书/微信",
+        "nanobot",
+        "量化",
+        "分析",
+        "项目"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 系统 Python 3.9 太旧了，Nanobot 需要 ≥3.11。用 Hermes 的 Python 3.11 来装：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "3.9",
+        "3.11",
+        "系统",
+        "python",
+        "nanobot",
+        "需要",
+        "hermes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: 装好了 ✅ **Nanobot v0.1.5.post3** ```bash $ nanobot --help ``` **命令一览：** | 命令 | 说明 | |------|------| | `nanobot onboard` | 初始化配置 | | `nanobot gateway` | 启动网关（Discord/飞书等） | | `nanobot agent` | 直接对话 | | `nanobot serve` | 启动 API 服务器 | | `nanobot channels` | 管理频道 | | `nanobo",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "gateway",
+        "网关",
+        "v0.1.5.post3",
+        "discord/飞书等",
+        "好了",
+        "nanobot",
+        "v0.1.5",
+        "post3"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: Nanobot 配置完成 ✅ **安装位置：** `~/.nanobot/` - 配置文件：`~/.nanobot/config.json` - 工作区：`~/.nanobot/workspace/` 下一步需要添加 **API Key**（OpenRouter 或其他的），然后在配置文件里设置。要我帮你查看配置模版吗？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "router",
+        "nanobot/config.json",
+        "nanobot/workspace",
+        "nanobot",
+        "配置",
+        "完成",
+        "安装",
+        "位置"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: 找到 DeepSeek API Key 了！直接配进 Nanobot：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "找到",
+        "deepseek",
+        "api",
+        "key",
+        "直接",
+        "nanobot"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: Nanobot 跑起来了！🐈 ``` 你好！我是 nanobot 🐈，一个个人 AI 助手。 很高兴认识你，Ethan！Cortex 的朋友就是我的朋友 😊 ``` **配置完成 ✅** | 项目 | 内容 | |------|------| | 模型 | DeepSeek Chat | | 提供商 | DeepSeek（复用已有 API Key） | | 状态 | ✅ 对话正常 | **当前 Nanobot 配置：** - WebSocket 频道已启用（端口 18790） - Discord 频道已内置但未启用（等你给我",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "nanobot",
+        "跑起来",
+        "你好",
+        "我是",
+        "一个",
+        "个人",
+        "助手",
+        "高兴"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-14T19:00:00.442Z",
+      "lastRecalledAt": "2026-05-14T19:00:00.442Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-15",
+        "2026-05-14"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
       ]
     }
   }
