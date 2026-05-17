@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T19:00:00.541Z",
+  "updatedAt": "2026-05-17T19:00:00.600Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1",
@@ -647,43 +647,43 @@
     },
     "memory:memory/2026-05-13.md:4:7": {
       "key": "memory:memory/2026-05-13.md:4:7",
-      "lightHits": 3,
+      "lightHits": 4,
       "remHits": 0,
-      "lastLightAt": "2026-05-15T19:00:01.323Z"
+      "lastLightAt": "2026-05-17T19:00:00.600Z"
     },
     "memory:memory/2026-05-13.md:8:9": {
       "key": "memory:memory/2026-05-13.md:8:9",
-      "lightHits": 3,
-      "remHits": 1,
-      "lastLightAt": "2026-05-15T19:00:01.323Z",
-      "lastRemAt": "2026-05-16T19:00:00.541Z"
+      "lightHits": 4,
+      "remHits": 2,
+      "lastLightAt": "2026-05-17T19:00:00.600Z",
+      "lastRemAt": "2026-05-17T19:00:00.600Z"
     },
     "memory:memory/2026-05-13.md:12:13": {
       "key": "memory:memory/2026-05-13.md:12:13",
-      "lightHits": 3,
-      "remHits": 1,
-      "lastLightAt": "2026-05-15T19:00:01.323Z",
-      "lastRemAt": "2026-05-16T19:00:00.541Z"
+      "lightHits": 4,
+      "remHits": 2,
+      "lastLightAt": "2026-05-17T19:00:00.600Z",
+      "lastRemAt": "2026-05-17T19:00:00.600Z"
     },
     "memory:memory/2026-05-12.md:4:7": {
       "key": "memory:memory/2026-05-12.md:4:7",
-      "lightHits": 4,
+      "lightHits": 5,
       "remHits": 1,
-      "lastLightAt": "2026-05-16T19:00:00.541Z",
+      "lastLightAt": "2026-05-17T19:00:00.600Z",
       "lastRemAt": "2026-05-15T19:00:01.323Z"
     },
     "memory:memory/2026-05-12.md:10:13": {
       "key": "memory:memory/2026-05-12.md:10:13",
-      "lightHits": 4,
-      "remHits": 2,
-      "lastLightAt": "2026-05-16T19:00:00.541Z",
-      "lastRemAt": "2026-05-16T19:00:00.541Z"
+      "lightHits": 5,
+      "remHits": 3,
+      "lastLightAt": "2026-05-17T19:00:00.600Z",
+      "lastRemAt": "2026-05-17T19:00:00.600Z"
     },
     "memory:memory/2026-05-12.md:16:19": {
       "key": "memory:memory/2026-05-12.md:16:19",
-      "lightHits": 4,
+      "lightHits": 5,
       "remHits": 1,
-      "lastLightAt": "2026-05-16T19:00:00.541Z",
+      "lastLightAt": "2026-05-17T19:00:00.600Z",
       "lastRemAt": "2026-05-15T19:00:01.323Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-13.txt:7:7": {
@@ -1193,9 +1193,9 @@
     },
     "memory:memory/.dreams/session-corpus/2026-05-14.txt:36:36": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:36:36",
-      "lightHits": 2,
+      "lightHits": 3,
       "remHits": 0,
-      "lastLightAt": "2026-05-16T19:00:00.541Z"
+      "lastLightAt": "2026-05-17T19:00:00.600Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-15.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:1:1",
@@ -1229,9 +1229,39 @@
     },
     "memory:memory/.dreams/session-corpus/2026-05-15.txt:22:22": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:22:22",
+      "lightHits": 2,
+      "remHits": 0,
+      "lastLightAt": "2026-05-17T19:00:00.600Z"
+    },
+    "memory:memory/2026-05-18.md:4:7": {
+      "key": "memory:memory/2026-05-18.md:4:7",
       "lightHits": 1,
       "remHits": 0,
-      "lastLightAt": "2026-05-16T19:00:00.541Z"
+      "lastLightAt": "2026-05-17T19:00:00.600Z"
+    },
+    "memory:memory/2026-05-18.md:10:11": {
+      "key": "memory:memory/2026-05-18.md:10:11",
+      "lightHits": 1,
+      "remHits": 0,
+      "lastLightAt": "2026-05-17T19:00:00.600Z"
+    },
+    "memory:memory/2026-05-18.md:14:17": {
+      "key": "memory:memory/2026-05-18.md:14:17",
+      "lightHits": 1,
+      "remHits": 0,
+      "lastLightAt": "2026-05-17T19:00:00.600Z"
+    },
+    "memory:memory/2026-05-17.md:4:7": {
+      "key": "memory:memory/2026-05-17.md:4:7",
+      "lightHits": 1,
+      "remHits": 0,
+      "lastLightAt": "2026-05-17T19:00:00.600Z"
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-16.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-16.txt:12:12",
+      "lightHits": 1,
+      "remHits": 0,
+      "lastLightAt": "2026-05-17T19:00:00.600Z"
     }
   }
 }
