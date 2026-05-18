@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T19:00:01.010Z",
+  "updatedAt": "2026-05-18T07:09:06.903Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1",
@@ -10947,6 +10947,37 @@
         "failed",
         "producing",
         "content"
+      ]
+    },
+    "memory:memory/2026-05-18.md:1:18": {
+      "key": "memory:memory/2026-05-18.md:1:18",
+      "path": "memory/2026-05-18.md",
+      "startLine": 1,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "# 2026-05-18 ## Nanobot Discord Setup - Installed discord.py v2.7.1 for Nanobot - Configured Discord channel in Nanobot config (enabled, allowFrom all) - Nanobot gateway running on port 18790 (health: ok) - WebSocket server on ws://127.0.0.1:8765/ ## Issues - Discord bot token \"123456\" appears invalid - cannot authenticate with Discord - Need user to provide a valid Discord Bot Token from Developer Portal ## System Status - Nanobot v0.1.5.post3 gateway running ✅ - Hermes Agent v0.13.0 ✅ - mihomo proxy ✅ - GitHub repo synced ✅",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-18T07:09:06.903Z",
+      "lastRecalledAt": "2026-05-18T07:09:06.903Z",
+      "queryHashes": [
+        "19a935af5052"
+      ],
+      "recallDays": [
+        "2026-05-18"
+      ],
+      "conceptTags": [
+        "gateway",
+        "discord.py",
+        "v2.7.1",
+        "127.0.0.1",
+        "v0.1.5.post3",
+        "v0.13.0",
+        "nanobot",
+        "discord"
       ]
     }
   }
