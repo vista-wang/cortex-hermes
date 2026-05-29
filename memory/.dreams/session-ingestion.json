@@ -64,6 +64,13 @@
       "lineCount": 2,
       "lastContentLine": 2
     },
+    "main:sessions/main/5f3f047a-3271-4dc1-ba7a-eaa43a191d5f.jsonl.deleted.2026-05-28T19-00-02.684Z": {
+      "mtimeMs": 1779994802382,
+      "size": 4357,
+      "contentHash": "e18bbc4e4bb3e9bbe74355d1cab9e8d39c278192473e55c655a340d19bbf8585",
+      "lineCount": 4,
+      "lastContentLine": 4
+    },
     "main:sessions/main/6556a3d3-6e50-4cf9-85dc-43219c9e4aad.jsonl": {
       "mtimeMs": 1777946453540,
       "size": 145,
@@ -176,6 +183,13 @@
       "lineCount": 2,
       "lastContentLine": 2
     },
+    "main:sessions/main/ab9f76e4-1490-49fd-8c91-f15984fc66f8.jsonl": {
+      "mtimeMs": 1779994802694,
+      "size": 2167,
+      "contentHash": "ddd05af8381fb6882f83e1fe72fbc004a5d3a585223bf48d8aa1f41b930c0d88",
+      "lineCount": 1,
+      "lastContentLine": 1
+    },
     "main:sessions/main/aff2c476-a6ce-4467-aef7-23c048301dce.jsonl": {
       "mtimeMs": 1779562810942,
       "size": 3638,
@@ -204,12 +218,19 @@
       "lineCount": 3,
       "lastContentLine": 3
     },
+    "main:sessions/main/bab001fd-1f17-4d40-bde6-f6e503886384.jsonl": {
+      "mtimeMs": 1779994803076,
+      "size": 3638,
+      "contentHash": "480125af9319c608cd80f08f2ddd55968f509f53c741bb307ce3123ab2dddb72",
+      "lineCount": 3,
+      "lastContentLine": 3
+    },
     "main:sessions/main/c03966a4-7c75-42bb-a6f7-8713b7c2690c.jsonl": {
-      "mtimeMs": 1779993540017,
-      "size": 3771069,
-      "contentHash": "ee25f2e38d81f718166f53237125c1fd0cec7f4a90486fd56d32197cf22659c1",
-      "lineCount": 919,
-      "lastContentLine": 794
+      "mtimeMs": 1780079944487,
+      "size": 3837573,
+      "contentHash": "65ec8b6a4c4ef78927dfb752832464360b6406697147f7264516a745c19c0eb3",
+      "lineCount": 967,
+      "lastContentLine": 842
     },
     "main:sessions/main/c1c24d36-1058-47c9-8c1f-942b6b6e00e0.jsonl.deleted.2026-05-12T19-00-15.307Z": {
       "mtimeMs": 1778612415187,
@@ -890,7 +911,31 @@
       "fdb72bad5abe2fe0eb513c3b9e116d4e7864dd61",
       "78826d6485768eb70b2a1cc9c3abbfee6c0ba9ab",
       "61eeb30f17f0cc2b87a1b66d516c87f15f399c52",
-      "2a5303fd1bfb8a4c16558ba36f3f3c8266854c09"
+      "2a5303fd1bfb8a4c16558ba36f3f3c8266854c09",
+      "4deef0660f62a339387b6e6de33a1eed2c206d42",
+      "0ca555c040a4e92c5e75ea217a1c540affdb8dcf",
+      "dba82799726a81769e5c989ef7716a3fa636bc51",
+      "99d93dafebcbf761bd3e269bc33652a28b6b1c4f",
+      "a58b258d8f2ff6d494a4407ecf5f68ebac3ca96b",
+      "9a24f0bdb69f47dfd971ed05fc716ec3286125e4",
+      "39f9e3a7e7ddac07ba91a6a690bea9765bb02f5b",
+      "2d4b60b0feae8509e14cc294ac41aff8fc795fa8",
+      "6a0cfb647a421f707d50ae688eeefa21c3b53b82",
+      "0bdb6bbcfa83c333f96fd58d1d27e373250b67d5",
+      "5d8f9faae29c8011060e6a65a5e75966f4318753",
+      "f0c35d08b36a3721b3103a3702478250cd0ffbcb",
+      "809c75f0ec8c2ec36e6aa4be946b573bbae5c29c",
+      "b2cf0b386aa9878ee3e2ea03caab72db36d8807f",
+      "212b63b2f96df5249d48c9c87ed7de0f4c15b895",
+      "5e1f2f55805dbba44453615d701ec51f76e25421",
+      "200c0d07332b9d490d353909600a507e89b2581b",
+      "9580a590d1f0bb8e4db451fdda49a19d20776631",
+      "efc638fb572d431094b2b4a3970f737fefb4c44a",
+      "35bac382416f2ff2a07c8ecab4f1f9c91f84badc",
+      "4eea2c51b413f40e01e27f11dfa19a01eb94f563",
+      "1f37331ab6c85a0cf44e2d82db29d7e3bd1a4d44",
+      "3c7889bbdf2171901763e02c24ad32911b6a28e9",
+      "5a18415bff61cf11758587c2fe4d0b47175218f1"
     ],
     "main:68a8e7c9-1c21-4964-8fff-af9b4467e7a5": [
       "711db21989794a29419acc5f40afeecb57ea8aac",
@@ -1051,6 +1096,20 @@
       "55f0ffcc10ac900ea993e0dbad5269a424d8ea11",
       "12e60e1f44c2381a0897a1a4e84fe03d7bac46bd",
       "a9fa27192d326307a8a98b702ebe32f7574d1344"
+    ],
+    "main:5f3f047a-3271-4dc1-ba7a-eaa43a191d5f": [
+      "7b3bd2c280ef1a70f69c6ccd9ee05e1e049eaf43",
+      "b17c45b76a258d544eaf5b757714ae47998c9306",
+      "795f693ea34727ed1d735f76a3cfeafcf0064aba",
+      "50a02b536e83ea700b857f5fc5ebcada9208153c"
+    ],
+    "main:ab9f76e4-1490-49fd-8c91-f15984fc66f8": [
+      "2be6a008603ec9c25cf09d6a023ec2876e5b15f5"
+    ],
+    "main:bab001fd-1f17-4d40-bde6-f6e503886384": [
+      "86ee4c0d7092419dd2c545eb01adea2f50ce873f",
+      "f66f5b3a19176981c07ade8f6e03cfdbe346ce14",
+      "860f2c1b5794508be869bec686fd003f10a58a30"
     ]
   }
 }
